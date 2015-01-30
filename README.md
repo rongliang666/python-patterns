@@ -39,3 +39,6 @@ Current Patterns:
 | [strategy](strategy.py) | selectable operations over the same data |
 | [template](template.py) | an object imposes a structure but takes pluggable components |
 | [visitor](visitor.py) | invoke a callback for all items of a collection |
+
+
+haha
